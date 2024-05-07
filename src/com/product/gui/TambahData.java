@@ -142,8 +142,6 @@ public class TambahData extends javax.swing.JDialog {
 
         Integer jumlahKolom = Integer.valueOf(txtJumlahKolom.getText());
 
-        pnJumlahKolom.removeAll();
-
         // Create an array of JTextField instances
         int x = 2;
         int y = 2;
